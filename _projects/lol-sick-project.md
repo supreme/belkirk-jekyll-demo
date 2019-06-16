@@ -4,7 +4,6 @@ title: Lol sick project
 sub_heading: spooky
 banner_image: "/uploads/2019/06/16/mountain1.jpg"
 slug: ''
-published: false
 
 ---
 this is a sick project
