@@ -1,10 +1,9 @@
 ---
-title: 'Electric Vehicle '
-tags:
-- research
+title: Earls Prudential
+tags: []
 date: '2018-02-25T19:07:50.000+00:00'
 banner_image: "/uploads/2019/06/16/earls_pru_patio.jpg"
-sub_heading: 'Human centered design in the electric vehicle era '
+sub_heading: Earls Restaurants at Prudential Center in Boston, MA
 slug: ''
 
 ---
